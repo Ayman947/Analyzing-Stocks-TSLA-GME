@@ -33,7 +33,7 @@
 
 
 
-# **Data Cleaning** & **Preprocessing**
+# **Data Cleaning**
 
 - Dropping null values from TSLA_revenues_data.
 - Removing dollar signs and thousands separators from TSLA_revenues_data. 
@@ -47,8 +47,11 @@
 
 
 - An interactive dashboard that conveys the trends of TSLA's prices (US $) and revenues (Millions of US $).
+![TSLA](https://github.com/Ayman947/Analyzing-Stocks-TSLA-GME/blob/main/TSLA_Plotly.PNG)
+
 
 
 
 - An interactive dashboard that conveys the trends of GME's prices (US $) and revenues (Millions of US $).
+![GME](https://github.com/Ayman947/Analyzing-Stocks-TSLA-GME/blob/main/GME_Plotly.PNG)
 
