@@ -23,10 +23,10 @@
 
 # **Data Sources**
 
-- [TSLA-Revenues](https://www.macrotrends.net/stocks/charts/TSLA/tesla/revenue): A data scource containing Tesla Quarterly Revenue
+- [TSLA-Revenues](https://www.macrotrends.net/stocks/charts/TSLA/tesla/revenue): A data source containing Tesla's Quarterly Revenue
 (Millions of US $)
 
-- [GME_Revenues](https://www.macrotrends.net/stocks/charts/GME/gamestop/revenue): A data scource containing GME Quarterly Revenue
+- [GME_Revenues](https://www.macrotrends.net/stocks/charts/GME/gamestop/revenue): A data source containing GME's Quarterly Revenue
 (Millions of US $)
 
 - Prices-Data: Collected through **yfinance API**, which is a reliable method of gathering financial data.
@@ -36,8 +36,8 @@
 # **Data Cleaning**
 
 - Dropping null values from TSLA_revenues_data.
-- Removing dollar signs and thousands separators from TSLA_revenues_data. 
-- Removing dollar signs and thousands separators from GME_revenues_data.
+- Removing dollar signs and thousands separators of from TSLA_revenues_data. 
+- Removing dollar signs and thousands separators of from GME_revenues_data.
 - Editing data types for both TSLA & GME data to be relevant for our analysis:
   - Changing the date column to datetime.
   - Changing the revenues column to float. 
