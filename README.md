@@ -1,9 +1,9 @@
 # Extracting & Visualization Stocks data
 
 
-- In this project, we are going to extract and visualize stocks prices and revenues over a period of time.
+- In this project, we are going to extract and visualize stock prices and revenues over a period of time.
 
-- This data and visualizations will help decision-makers to make more accurate data-driven financial decisions related to selling, purchasing, shortselling and investing in stocks.
+- This data and visualizations will help decision-makers to make more accurate data-driven financial decisions related to selling, purchasing, short-selling and investing in stocks.
 
 - Our focus will be on **Tesla(TSLA)** and **GameStop(GME)**.
 
